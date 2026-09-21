@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-1. satu
+1. satu1
