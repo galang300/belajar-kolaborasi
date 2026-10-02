@@ -7,4 +7,4 @@
 <br>
 <br>
 <br>
-![Teks Alternatif](gambar/halo.jpg)
+![Teks Alternatif]()
